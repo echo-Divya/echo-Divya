@@ -1,17 +1,32 @@
-# Hi 👋, I'm Divya
+<div align="center">
 
-### Aspiring Full Stack Developer
+  <!-- Cinematic Header Banner (Matches the crop style of image_d03dfb.png) -->
+  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/04/anime-girl-dark-eyes-desktop-wallpaper-preview.jpg" width="100%" alt="header-banner" />
 
-- 📫 How to reach me **work.divyasharma05@gmail.com**
+  <br/>
+  <br/>
 
-- 📄 Know about my experiences **[View my Resume](https://drive.google.com/file/d/16cKrPtzw_TAikxGfIS03kjoPIDadLAGR/view?usp=drive_link)**
+  <!-- Minimalist Status Line -->
+  <code>[ SYSTEM STATUS: ONLINE ]</code> 🌌
 
-<h3 align="left">Connect with me:</h3>
+  <br/>
+  <br/>
+
+  <!-- Sleek, uniform button links inspired by image_d03ab6.jpg -->
+  <p>
+    <a href="mailto:work.divyasharma05@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" /></a>
+    <a href="https://linkedin.com/in/divyaxi" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+    <a href="https://drive.google.com/file/d/16cKrPtzw_TAikxGfIS03kjoPIDadLAGR/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&logo=read-the-docs&logoColor=ffffff" alt="Resume" /></a>
+  </p>
+
+</div>
+
+---
+
+### 🛠️ Stack
+
 <p align="left">
-<a href="https://github.com/echo-Divya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="echo-Divya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/divyaxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyaxi" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,git,linux,c,cpp,java&theme=dark" alt="tools" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
-
