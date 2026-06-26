@@ -1,6 +1,5 @@
 # Hello! I'm Divya
 
-### Aspiring Full Stack Developer
 
 - 📫 How to reach me **work.divyasharma05@gmail.com**
 
