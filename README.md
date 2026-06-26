@@ -5,7 +5,7 @@ I'm a **Frontend Developer** working towards **Full-Stack** 🚀, with a growing
 I use this profile to build projects, experiment, and track my progress. Always open to **collaboration, feedback, or code reviews**! 💻✨
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhhbWc3NHFuZnBsZXNncWhicHg2am0zemttNW9wNjBvcnVjMjg5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" alt="Profile Pet Cat" width="200" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhhbWc3NHFuZnBsZXNncWhicHg2am0zemttNW9wNjBvcnVjMjg5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kSxi9DiWH4Q8q1Kbql/giphy.gif" alt="Profile Pet Cat" width="150" />
 </p>
 
 ---
