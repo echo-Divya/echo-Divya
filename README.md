@@ -13,7 +13,7 @@ I use this profile to build projects, experiment, and track my progress. Always 
 ### 📬 Connect with me
 
 <p>
-  <a href="mailto:work.divyasharma05@gmail.com"><img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="gmail" height="35" /></a>
+  <a href="mailto:work.divyasharma05@gmail.com"><img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=743089" alt="gmail" height="35" /></a>
   <a href="https://linkedin.com/in/divyaxi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://discordapp.com/users/1501502966383775805"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
