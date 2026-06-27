@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVka3A4eHdpZjZmMXIxZXp5eTA3cGNkdWw4a3p2dzdicWJndDBldCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZEUG15qVucEn0HwayY/giphy.gif" alt="🤚" width="40" /> Hello!
 
-I'm a **Frontend Developer** working towards **Full-Stack** , with a growing interest in **Cybersecurity** 🛡️. 
+I'm a **Frontend Developer** working towards **Full-Stack**, with a growing interest in **Cybersecurity** 🛡️. 
 
 I use this profile to build projects, experiment, and track my progress. Always open to **collaboration, feedback, or code reviews**! 💻✨
 
@@ -13,7 +13,7 @@ I use this profile to build projects, experiment, and track my progress. Always 
 ### <div block><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlxY21hc2IyaXl3bmFxZHl4NXp2a2JlYnF3ZGE1N2VveGp4eTQ0MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DKbh8zthipdOfUHFbO/giphy.gif" alt="📬" width="30" /> Connect with me
 </div>
 <p>
-  <a href="mailto:work.divyasharma05@gmail.com"><img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=743089" alt="gmail" height="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:work.divyasharma05@gmail.com"><img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=550000" alt="gmail" height="35" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/divyaxi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/1501502966383775805"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
