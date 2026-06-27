@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVka3A4eHdpZjZmMXIxZXp5eTA3cGNkdWw4a3p2dzdicWJndDBldCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZEUG15qVucEn0HwayY/giphy.gif" alt="🤚" width="40" /> Hello!
 
-I'm a **Frontend Developer** working towards **Full-Stack** 🚀, with a growing interest in **Cybersecurity** 🛡️. 
+I'm a **Frontend Developer** working towards **Full-Stack** , with a growing interest in **Cybersecurity** 🛡️. 
 
 I use this profile to build projects, experiment, and track my progress. Always open to **collaboration, feedback, or code reviews**! 💻✨
 
